@@ -1,6 +1,6 @@
 <h1 align="center"> Department vendor registration system </h1>
 
-This is a system that uses the MySQL database to be able to save, edit and delete salespeople and departments
+This is a system that uses the MySQL database to be able to save, edit and delete salespeople and departments from database.
 
 ## :hammer: Project features
 
